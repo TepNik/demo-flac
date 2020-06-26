@@ -46,4 +46,4 @@ Also you can find code of flac [here](https://github.com/xiph/flac).
 ### What differences does flac have
 
 + Type of input files. In flac you can use different types of input files but here you can use only input files that have raw data.
-+ In flac there is 4 types of subframes (constant, verbatium, fixed and lcd). Here you can find only 3 types (constant, verbatium and fixed).
++ In flac there is 4 types of subframes (constant, verbatium, fixed and lpc). Here you can find only 3 types (constant, verbatium and fixed).
